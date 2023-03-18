@@ -1,8 +1,5 @@
 body {
     text-align: center;
-    /*background: radial-gradient(circle, rgb(60, 245, 205) 14%, rgb(25, 172, 115) 74%);*/
-    
-   /*background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);*/
 
    background: radial-gradient(circle, rgba(234,155,210,1) 16%, rgba(119,159,221,1) 100%);
 }
