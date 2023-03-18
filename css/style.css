@@ -9,11 +9,10 @@ body {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #000;
-    font-size: 3em;
-    color: #fdfdfd;
-    padding-top: 30px;
+    text-decoration: underline;
+    font-size: 50px;
+    color:rgb(216, 46, 75);
+    padding-top: 25px;
 }
 
 .square {
